@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "vue-google-autocomplete": "^1.1.3"
+  }
+}
